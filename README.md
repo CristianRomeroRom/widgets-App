@@ -1,2 +1,3 @@
-# widgets-App
-App movil para ver la opciones que muestra flutter
+# widgets_app
+
+A new Flutter project.
